@@ -104,10 +104,13 @@ Application for Scientist / Project Manager Bioinformatics.
 ## Activities and Interests
 
 `Hobbies`{.label .label-success} 
-:   Coding, Listening to Music, Reading, Board games.
+:   Listening to Music, Reading, Board games.
 
 `Sports`{.label .label-success} 
 :   Cricket, Badminton, Chess and occasionally running.
+
+`Activities`{.label .label-success}
+:   Social coding, Contributing on [Stackoverflow](http://stackoverflow.com/users/559784/arun).
 
 ----
 

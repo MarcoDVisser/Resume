@@ -106,6 +106,9 @@
 `Sports`
 :   Cricket, Badminton, Chess and occasionally running.
 
+`Activities`
+:   Social coding, Contributing on Stackoverflow.
+
 ----
 
 ## References {.lead}
