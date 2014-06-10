@@ -1,6 +1,6 @@
 # Resume
 
-This Resume was created in [Pandoc's Markdown](http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html) and converted to html using `Pandoc`. And it was converted to `pdf` using `wkhtmltopdf`.
+This Resume was written using [Pandoc's Markdown](http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html) and converted to `html` using `Pandoc`. Following that, it was converted to `pdf` using `wkhtmltopdf`.
 
 ```bash
 # installation for mac
