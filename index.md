@@ -93,15 +93,18 @@ Application for Scientist / Project Manager Bioinformatics.
 
 ## Languages
 
+---
+
 `Proficient`{.label .label-success} 
 :   Tamil, English
 
 `Other`{.label .label-success} 
 :   German - Cleared **TestDaF** qualification exam in October 2010 with **level 3**
 
----
 
 ## Activities and Interests
+
+---
 
 `Hobbies`{.label .label-success} 
 :   Listening to Music, Reading, Board games.
@@ -112,8 +115,9 @@ Application for Scientist / Project Manager Bioinformatics.
 `Activities`{.label .label-success}
 :   Social coding, Contributing on [Stackoverflow](http://stackoverflow.com/users/559784/arun).
 
-----
 
 ## References {.lead}
+
+----
 
 Available upon request.
