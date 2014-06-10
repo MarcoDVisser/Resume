@@ -90,15 +90,17 @@
 
 ## Languages
 
+---
+
 `Proficient`
 :   Tamil, English
 
 `Other`
 :   German - Cleared **TestDaF** qualification exam in October 2010 with **level 3**
 
----
-
 ## Activities and Interests
+
+----
 
 `Hobbies`
 :   Listening to Music, Reading, Board games.
@@ -109,8 +111,8 @@
 `Activities`
 :   Social coding, Contributing on Stackoverflow.
 
-----
-
 ## References {.lead}
+
+----
 
 Available upon request.
