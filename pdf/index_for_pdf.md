@@ -101,7 +101,7 @@
 ## Activities and Interests
 
 `Hobbies`
-:   Coding, Listening to Music, Reading, Board games.
+:   Listening to Music, Reading, Board games.
 
 `Sports`
 :   Cricket, Badminton, Chess and occasionally running.
